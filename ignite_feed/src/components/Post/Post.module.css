@@ -115,10 +115,12 @@
     font-weight: bold;
     cursor: pointer;
     transition: background-color 0.1s;
-
-  
 }
 
 .commentForm button[type=submit]:hover {
     background: var(--green-300);
+}
+
+.commentList{
+    margin-top: 2rem;
 }
