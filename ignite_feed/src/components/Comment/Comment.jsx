@@ -6,12 +6,14 @@ import { useState } from 'react';
 export function Comment({ content, onDeleteCommnet }) {
     const [likeCount, setLikeCount] = useState(0);
 
-    function handleDeleteComment(){
+    function handleDeleteComment() {
         onDeleteCommnet(content);
     }
-    
-    function handleLikeComment(){
-        setLikeCount(likeCount + 1)
+
+    function handleLikeComment() {
+        setLikeCount((state) => {
+            return state + 1
+        });
     }
     return (
         <div className={styles.comment}>
