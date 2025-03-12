@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    <img src="././src/assets/IgniteFeed.gif" width="100%" alt="gif do sistema funcionando">
+    <img src="./ignite_feed/src/assets/IgniteFeed.gif" width="100%" alt="gif do sistema funcionando">
 </p>
 
 ## 📖 Conceitos
