@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="#-conceitos">Conceitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -13,8 +14,15 @@
 </p>
 
 <p align="center">
-    <img src="././src/assets/AgendamentoHairDay-ezgif.com-video-to-gif-converter.gif" width="100%" alt="gif do sistema funcionando">
+    <img src="././src/assets/IgniteFeed.gif" width="100%" alt="gif do sistema funcionando">
 </p>
+
+## 📖 Conceitos
+
+- Programação imprerativa e programação declarativa
+- Estado
+- Closures no React
+- Imutabilidade
 
 ## 🚀 Tecnologias
 
@@ -23,3 +31,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React
 - Javascript
 - CSS
+
+
