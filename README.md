@@ -19,7 +19,7 @@
 
 ## 📖 Conceitos
 
-- Programação imprerativa e programação declarativa
+- Programação imperativa e programação declarativa
 - Estado
 - Closures no React
 - Imutabilidade
